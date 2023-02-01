@@ -1,6 +1,6 @@
 # Geotom-App Guide
 
-# Geotom-App 
+## Overview
 Plotting app for GeoTom E100K1 on Windows.
 - This app plots contact resistance data saved from Coupling-Test function from GeoTom.
 - Acceptable file extension is ".atc".
@@ -11,7 +11,7 @@ Electrical resistivity tomography (ERT) is a geophysical method that measures th
 Keywords: GeoTom, E100K1, GUI, contact resistance
 Developed by Ngui Yin Jeh, Jason
 
-# Download and use
+## Download and use
 - Tested using Windows 7, 10 and 11.
 - No installation required, download this <a href="./v1.0.0/geotom_app.exe" download="geotom_app"></a>
 - 
@@ -19,7 +19,7 @@ Developed by Ngui Yin Jeh, Jason
 
 - [latest standalone exe](https://github.com/flyercarol/Geotom/blob/main/v1.0.0/geotom_app.exe "download") and execute it in Windows environment.
 
-# Development and testing
+## Development and testing
 Several python libraries are used to complete this Geotom-App：
 - matplotlib
 - pyinstaller
