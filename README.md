@@ -13,7 +13,7 @@ Developed by Ngui Yin Jeh, Jason
 
 # Download and use
 - Tested using Windows 7, 10 and 11.
-- No installation required, download this [latest standalone exe](https://github.com/flyercarol/Geotom/blob/main/v1.0.0/geotom_app.exe) and execute it in Windows environment.
+- No installation required, download this [latest standalone exe](https://github.com/flyercarol/Geotom/blob/main/v1.0.0/geotom_app.exe "download") and execute it in Windows environment.
 
 # Development and testing
 Several python libraries are used to complete this Geotom-App：
