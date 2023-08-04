@@ -1,4 +1,5 @@
 # Geotom-App Guide
+![Logo](image/geotom-app-logo.png)
 
 ## Overview
 Plotting app for GeoTom E100K1 on Windows.
